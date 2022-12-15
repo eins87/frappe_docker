@@ -3,13 +3,13 @@
     {
       "name": "frappe",
       "branch": "develop",
-      "upstream": "git@github.com:frappe/frappe.git",
+      "upstream": "git@github.com:eins87/frappe.git",
       "fork": "[your fork]"
     },
     {
       "name": "erpnext",
       "branch": "develop",
-      "upstream": "git@github.com:frappe/erpnext.git"
+      "upstream": "git@github.com:eins87/erpnext.git"
     }
   ]
 }
